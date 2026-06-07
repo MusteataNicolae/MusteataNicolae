@@ -1,16 +1,24 @@
-## Hi there 👋
+Nicolae Musteata 
 
-<!--
-**MusteataNicolae/MusteataNicolae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer passionate about **Next.js, React & AI**.  
+Open source contributor building tools for developers.
 
-Here are some ideas to get you started:
+Tech Stack
+Frontend: Next.js, React, TypeScript
+Backend: Node.js, Python
+AI/ML: Exploring LLMs, AI integrations
+Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Working On
+Contributing to open source projects
+Building AI-powered web applications
+Learning server components & advanced React
+
+My Goal
+5+ contributions this month
+Become active in Next.js/AI community
+
+Connect With Me
+TikTok: [@musteatanicolae_](https://www.tiktok.com/@musteatanicolae_)
+GitHub: [@MusteataNicolae](https://github.com/MusteataNicolae)
+
